@@ -1,2 +1,3 @@
-# risk-leaderboard
-Leaderboard for my AS level Software Systems Development project.
+# Risk Leaderboard
+
+Leaderboard is not online yet! Check back later.
